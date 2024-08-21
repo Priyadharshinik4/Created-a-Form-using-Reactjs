@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Created-a-Form-using-Reactjs/static/css/main.a9f485b5.css",
+    "main.js": "/Created-a-Form-using-Reactjs/static/js/main.1f6c7da4.js",
+    "index.html": "/Created-a-Form-using-Reactjs/index.html",
+    "main.a9f485b5.css.map": "/Created-a-Form-using-Reactjs/static/css/main.a9f485b5.css.map",
+    "main.1f6c7da4.js.map": "/Created-a-Form-using-Reactjs/static/js/main.1f6c7da4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a9f485b5.css",
+    "static/js/main.1f6c7da4.js"
+  ]
+}
