@@ -35,3 +35,7 @@ label{
 .btn{
   font-size: 20px;
 }
+.error {
+  border-color: red;
+}
+
